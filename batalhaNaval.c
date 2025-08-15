@@ -3,7 +3,7 @@
 void arraylinhas(){
 
     //array para mostrar cordenadas no tabuleiro
-    char letras[10] = {'A' , 'B', 'C', 'D', 'F', 'G', 'H', 'I', 'J', 'K'};
+    char letras[10] = {'A' , 'B', 'C', 'D', '', 'G', 'H', 'I', 'J', 'K'};
     //imprime array de letras para cordenadas
     printf("   ");
     for(int i = 0 ; i<10 ; i++){
